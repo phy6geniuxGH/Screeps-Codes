@@ -1,0 +1,25 @@
+Annotate all codes for explanation
+Improved Repair Behavior
+Refactoring script using better codes
+Refinement of Modules
+Spawning Module (DONE)
+Repairer Creeps Logic (DONE)
+Repair Module (DONE)
+Automatic Structure Spawning (Under development)
+Taking Memory advantages
+Attacker Module
+Attacker Logic
+Tower Attacking Logic
+Tower Repairing Logic
+Structure Repairing Logic
+Hive logic
+Structure Deconstruction Algorithm
+class {} implementation within the module
+Room Expansion and Pathfinding Algorithm
+More powerful creeps
+Apply new Harvester algorithm to other creeps
+Miner module
+Module for Getting the Game.getObjectId('...') for source assignment.
+Memory Module
+Decommissioning creeps algorithm - for less wasted energy before they die.
+Container placing and mining logic
